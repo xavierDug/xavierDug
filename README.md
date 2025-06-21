@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xavier Dugal
 
-🎓 I'm a programming student and aspiring full-stack developer passionate about building powerful, user-focused web applications. I specialize in Angular + TypeScript on the frontend and .NET Core + SQL Server on the backend.
+🎓 I'm a programming student and aspiring full-stack developer passionate about building powerful, user-focused web applications. I specialize in Angular/Next.js + TypeScript on the frontend and .NET Core + SQL Server on the backend.
 
 ## 🚀 About Me
 
