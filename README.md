@@ -29,6 +29,21 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF007E?logo=framer&logoColor=white&style=flat)
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xavierdugal&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xavierdugal&theme=radical" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierdugal&layout=compact&theme=radical" width="49%" />
+</p>
+
+---
+
 ## 📌 Current Projects
 
 - 🔨 **MemberManager** — a SaaS platform to streamline gym operations, billing, and member tracking
@@ -37,9 +52,8 @@
 ## 📫 Connect with Me
 
 - 🌐 [xavierdugal.ca](https://xavierdugal.ca)
-- 📧 xavier.dugal@gmail.com  
-- 🐦 [Twitter](https://twitter.com/yourhandle) (optional)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) (optional)
+- 📧 xavierdugal2004@hotmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/xavier-dugal-0b0337298) (optional)
 
 ---
 
